@@ -1,0 +1,59 @@
+
+.messageCom{
+    margin: auto;
+    width: 60%;
+}
+
+.messageCom h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Rampart One', cursive; 
+}
+
+.messageCom p, pre{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    /* font-family: 'Rampart One', cursive;  */
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+img{
+    max-width: 70%;
+    height: auto;
+    align-items: center;
+}
+
+.shake{
+    animation: shake 0.5s;
+}
+
+@keyframes shake {
+    0% { transform: translate(0, 0); }
+    20% { transform: translate(-10px, 0); }
+    40% { transform: translate(10px, 0); }
+    60% { transform: translate(-10px, 0); }
+    80% { transform: translate(10px, 0); }
+    100% { transform: translate(0, 0); }
+}
+
+@media (max-width: 767px) {
+    .messageCom {
+      width: 100%; /* Use full width on mobile */
+    }
+  
+    .messageCom h1 {
+      font-size: 24px; /* Further decrease the font size for smaller screens */
+    }
+  
+    .messageCom p,
+    pre {
+      font-size: 16px; /* Further decrease the font size for smaller screens */
+    }
+
+    imag{
+        max-width: 50%
+    }
+  }

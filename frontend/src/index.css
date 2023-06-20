@@ -1,0 +1,8 @@
+/*Global Style*/
+body{
+    min-height: 100vh;
+    background-image: linear-gradient( rgba(252, 226, 138, 1), rgba(248, 183, 134, 1), rgba(243, 136, 129, 1));
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
