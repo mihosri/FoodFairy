@@ -3,5 +3,5 @@ services:
     name: FoodFairyFortune
     buildCommand: |
       cd frontend && npm install && npm run build
-      cd .. && npm install && npm run build
+      cd .. && npm install
     startCommand: npm run start
