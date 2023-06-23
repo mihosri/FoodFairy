@@ -1,7 +1,7 @@
-# FoodFairy Fortune
+# 💫FoodFairy Fortune
 A MERN app that provides fortune cookie messages.
 
-# Technologies used
+# 💻Technologies used
 - MongoDB
 - Express.js
 - Node.js
@@ -10,7 +10,7 @@ A MERN app that provides fortune cookie messages.
 - HTML
 - CSS
 
-# Citation
+# 📌Citation
 Fortune Cookie Image:
 D. Tripti, “Kawaii cookie cliparts - cute kawaii fortune cookie, HD png download , Transparent png image - pngitem,” PNGitem.com, https://www.pngitem.com/middle/oiTbwh_kawaii-cookie-cliparts-cute-kawaii-fortune-cookie-hd/ (accessed Jun. 18, 2023). 
 
