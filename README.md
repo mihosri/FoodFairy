@@ -16,4 +16,4 @@ D. Tripti, “Kawaii cookie cliparts - cute kawaii fortune cookie, HD png downlo
 
 # Website
 Check out the website to read your fortune from Food Fairy! 👉 https://foodfairyfortune.onrender.com
-(Experience a slight delay as this website hosted on a free platform – but rest assured, the magic unfolds soon!)
+(Experience a slight delay as this website is hosted on a free platform – but rest assured, the magic unfolds soon!)
